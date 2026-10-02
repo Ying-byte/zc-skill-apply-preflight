@@ -1,0 +1,20 @@
+{
+  "name": "zc-skill-apply-preflight",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "description": "投递前检查 — portable MCP + Skill",
+  "bin": {
+    "zc-skill-apply-preflight": "./stdio_mcp_server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "skill",
+    "career",
+    "apply-preflight"
+  ]
+}
